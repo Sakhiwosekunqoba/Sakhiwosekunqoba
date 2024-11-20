@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakhiwosekunqoba
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Data Science, Machine Learning and Artificial Intelligence.
-- 💞️ I’m looking to collaborate on Data, ANYTHING TO DO WITH DATA.
+- 💞️ I’m looking to collaborate on Machine learning.
 - 📫 How to reach me sakhiwosekunqoba@gmail.com
 
 <!---
